@@ -1,20 +1,26 @@
 # MA5 LLM Guardrail Project Inspiration
 
+<br>
 
 **By**: Phu Dang (pndang@ucsd.edu)
 
+<br>
 
 **Section**: B07 | Mentors: Abed El-Husseini, Nimu Sidhu
 
+<br>
 
 **Industry Partner**: Deloitte
 
+<br>
 
 **Host Institution**: Halicioglu Data Science Institute
 
+<br>
 
 **Prospective Data & Service Providers**: UC San Diego, Qualcomm Institute, Locbit, and more
 
+<br>
 
 **Q & A**:
 
