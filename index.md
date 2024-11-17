@@ -6,7 +6,7 @@
 
 <br>
 
-**Section**: B07 | Mentors: Abed El-Husseini, Nimu Sidhu
+**Section**: B07 - Mentors: Abed El-Husseini, Nimu Sidhu
 
 <br>
 
